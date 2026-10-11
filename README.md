@@ -48,8 +48,6 @@ That's it! No build tools or server required.
 You can also use the application directly via GitHub Pages:
 [flashcardgerman.github.io](https://flashcardgerman.github.io)
 
-> Replace the repository URL and demo link with your own GitHub username/repository if different.
-
 ## 📁 Project Structure
 
 ```
