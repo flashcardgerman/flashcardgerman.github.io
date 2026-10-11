@@ -46,7 +46,7 @@ That's it! No build tools or server required.
 ## Online Demo
 
 You can also use the application directly via GitHub Pages:
-[https://deutschlern.github.io](https://deutschlern.github.io)
+[flashcardgerman.github.io](https://flashcardgerman.github.io)
 
 > Replace the repository URL and demo link with your own GitHub username/repository if different.
 
